@@ -52,7 +52,7 @@ function displayParts543($dataBase)
         echo "<th> $row[0]</th>
                   <th> $row[1]</th>
                   <th> $row[2]</th>
-                  <th> $row[4]</th>";
+                  <th> $row[3]</th>";
 
         echo "</tr> ";
 
